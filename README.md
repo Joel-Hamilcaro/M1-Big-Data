@@ -5,4 +5,4 @@
 **Authors : [Joël Hamilcaro](https://github.com/Joel-Hamilcaro/) and [Jie Tu](https://github.com/jie-tu)**  
 
 `homework01.ipynb` -> We use pandas and plotly to perform data processing and visualization on a century of French baby names data.   
-`homework02.ipynb` -> We use Spark to study American baby name trends.   
+`homework02.ipynb` -> We use Spark to study and visualize American baby name trends.   
