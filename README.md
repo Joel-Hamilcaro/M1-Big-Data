@@ -13,3 +13,20 @@
 
 ## France
 
+![](https://github.com/Joel-Hamilcaro/M1-Big-Data/blob/master/figures/femalebirthFR.png)
+![](https://github.com/Joel-Hamilcaro/M1-Big-Data/blob/master/figures/sexratioFR.png)
+![](https://github.com/Joel-Hamilcaro/M1-Big-Data/blob/master/figures/top20FR.png)
+![](https://github.com/Joel-Hamilcaro/M1-Big-Data/blob/master/figures/rarenamesFR.png)
+![](https://github.com/Joel-Hamilcaro/M1-Big-Data/blob/master/figures/marieFR.png)
+![](https://github.com/Joel-Hamilcaro/M1-Big-Data/blob/master/figures/2000FR.png)
+
+## United States
+
+![](https://github.com/Joel-Hamilcaro/M1-Big-Data/blob/master/figures/distinctnamesUS.png)
+![](https://github.com/Joel-Hamilcaro/M1-Big-Data/blob/master/figures/sexratioUS.png)
+![](https://github.com/Joel-Hamilcaro/M1-Big-Data/blob/master/figures/2000fUS.png)
+![](https://github.com/Joel-Hamilcaro/M1-Big-Data/blob/master/figures/2000mUS.png)
+![](https://github.com/Joel-Hamilcaro/M1-Big-Data/blob/master/figures/2000US.png)
+![](https://github.com/Joel-Hamilcaro/M1-Big-Data/blob/master/figures/lorenzUS.png)
+![](https://github.com/Joel-Hamilcaro/M1-Big-Data/blob/master/figures/giniUS.png)
+
